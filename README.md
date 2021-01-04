@@ -9,6 +9,8 @@ It Solves many Initial Boards considered the hardest to solve (In Windows Sudoku
 
 It is offers Level 1 search only (concept discussed within the .py file), which is possibly the reason why it cannot solve the hardest task. we wil implement multi-level implementation soon
 
+In case you find yourself in situation where Sudoku presented to you is "Not Solvable", try it with this tool! Please send us the Initial Board if you find that the tool cannot solve it either!
+
 # HOW TO USE:
 
 1.) put your intial values in:
