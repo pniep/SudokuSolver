@@ -1,0 +1,23 @@
+table.sudoku_table {
+    margin: auto;
+    font-size: 1.5em;
+}
+
+table.sudoku_table, table.sudoku_table table {
+    border-collapse: collapse;
+}
+
+table.sudoku_table td {
+    padding: 0;
+}
+
+table.sudoku_table td td {
+    border: 1px solid #555;
+    text-align: center;
+    font-size: inherit;
+    width: 1.3em;
+    height: 1.3em;
+    padding: 0.2em;
+    position: relative;
+    overflow: hidden;
+}

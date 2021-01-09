@@ -1,0 +1,11 @@
+table.sudoku_table td input[type=tel] {
+    position: relative;
+    -moz-appearance: textfield;
+    text-align: center;
+    font-size: inherit;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
